@@ -66,7 +66,7 @@ function mariam_form_plugin(){
 
     $content .= '  <div class="md-form">';
     $content .= '<textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>';
-    $content .= '<label for="message">Your message</label>';
+    $content .= '<label for="message">Votre message</label>';
     $content .= '</div>';
 
     $content .= '</div>';
