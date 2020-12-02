@@ -31,7 +31,7 @@ function mariam_form_plugin(){
     $content .= '<div class="col-md-6">';
     $content .= '<div class="md-form mb-0">';
     $content .= ' <input type="text" id="name" name="name" class="form-control">';
-    $content .= ' <label for="name" class="">Your name</label>';
+    $content .= ' <label for="name" class="">Votre nom</label>';
     $content .= ' </div>';
     $content .= '  </div>';
                     
@@ -40,7 +40,7 @@ function mariam_form_plugin(){
     $content .= ' <div class="col-md-6">';
     $content .= ' <div class="md-form mb-0">';
     $content .= ' <input type="text" id="email" name="email" class="form-control">';
-    $content .= ' <label for="email" class="">Your email</label>';
+    $content .= ' <label for="email" class="">Votre email</label>';
     $content .= ' </div>';
     $content .= '  </div>';
                     
@@ -53,7 +53,7 @@ function mariam_form_plugin(){
     $content .= ' <div class="col-md-12">';
     $content .= ' <div class="md-form mb-0">';
     $content .= '<input type="text" id="subject" name="subject" class="form-control">';
-    $content .= '  <label for="subject" class="">Subject</label>';
+    $content .= '  <label for="subject" class="">Sujet</label>';
     $content .= '  </div>';
     $content .= ' </div>';
     $content .= '</div>';
